@@ -20,6 +20,8 @@ var addChocolates=(chocolates,color,count)=>{
 }
 
 
+
+
 //Progression 2: Remove ___ chocolates from the top the dispenser
 var removeChocolates=(chocolates,count)=>{
     if(count<=0)
